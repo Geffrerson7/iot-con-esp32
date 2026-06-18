@@ -81,7 +81,7 @@ Cuando un cliente realiza una solicitud al endpoint de la API:
 🔗 Simulación:
 
 ```text
-https://wokwi.com/projects/TU_PROJECT_ID
+https://wokwi.com/projects/467205124939279361
 ```
 
 ---
@@ -243,8 +243,6 @@ Este endpoint puede ser consumido por:
 │
 ├── docs/
 │   └── README.md
-│
-└── README.md
 ```
 
 ---
