@@ -80,7 +80,7 @@ Cuando un usuario accede al dashboard web:
 🔗 Simulación:
 
 ```text
-https://wokwi.com/projects/467198559050520577
+https://wokwi.com/projects/468304222189101057
 ```
 
 ---
